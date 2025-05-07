@@ -1,0 +1,3 @@
+/home/bhuvandiya/Machine_Learner/build/CMakeFiles/simplecalc.dir
+/home/bhuvandiya/Machine_Learner/build/CMakeFiles/edit_cache.dir
+/home/bhuvandiya/Machine_Learner/build/CMakeFiles/rebuild_cache.dir

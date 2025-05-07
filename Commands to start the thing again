@@ -1,0 +1,12 @@
+# Step 1: Build the C++ pybind11 module
+echo "🔨 Building C++ pybind11 module..."
+mkdir -p build && cd build
+cmake .. && make
+
+# Step 2: Set PYTHONPATH
+export PYTHONPATH=$PYTHONPATH:../venv/lib/python3.13/site-packages
+
+# Step 3: Run the Python app
+echo "🚀 Launching Python app..."
+cd ../gui
+python3 app.py

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -Wl,--dependency-file=CMakeFiles/simplecalc.dir/link.d -shared  -o /home/bhuvandiya/Machine_Learner/venv/lib/python3.13/site-packages/simplecalc.cpython-313-x86_64-linux-gnu.so CMakeFiles/simplecalc.dir/cpp/simplecalc.cpp.o

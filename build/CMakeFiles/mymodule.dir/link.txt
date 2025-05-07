@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -Wl,--dependency-file=CMakeFiles/mymodule.dir/link.d -shared  -o /home/bhuvandiya/Machine_Learner/venv/lib/python3.13/site-packages/mymodule.cpython-313-x86_64-linux-gnu.so CMakeFiles/mymodule.dir/cpp/mymodule.cpp.o
